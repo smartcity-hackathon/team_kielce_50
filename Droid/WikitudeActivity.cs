@@ -8,7 +8,7 @@ using Wikitude.Architect;
 using Wikitude.Common.Camera;
 using Wikitude.Tools.Device.Features;
 
-namespace XamarinExample.Droid
+namespace CityOfFuture.Droid
 {
     [Activity(Label = "WikitudeActivity")]
     public class WikitudeActivity : Activity, ArchitectView.IArchitectUrlListener

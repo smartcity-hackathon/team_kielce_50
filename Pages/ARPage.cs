@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace XamarinExample
+namespace CityOfFuture
 {
 	public class ARPage : ContentPage
 	{

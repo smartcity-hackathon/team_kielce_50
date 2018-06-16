@@ -4,9 +4,9 @@ using Android.Content.PM;
 using Android.OS;
 using Android.Support.V4.App;
 
-namespace XamarinExample.Droid
+namespace CityOfFuture.Droid
 {
-	[Activity(Label = "XamarinExample.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+	[Activity(Label = "CityOfFuture.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 	public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
 	{
 		private static readonly int REQUEST_CAMERA = 0;

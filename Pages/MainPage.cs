@@ -1,18 +1,18 @@
 ﻿using Xamarin.Forms;
 
-namespace XamarinExample
+namespace CityOfFuture
 {
     public class MainPage : ContentPage
     {
         public MainPage()
         {
-            this.Title = "Samples";
+            this.Title = "Demo";
 
             var listView = new ListView();
 
             listView.ItemsSource = new[]
             {
-                "02_AdvancedImageTracking_3_ExtendedTracking"
+                "LocalTracking"
             };
 
             // Using ItemTapped

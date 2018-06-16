@@ -3,8 +3,8 @@ using Android.Content;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 
-[assembly: ExportRenderer(typeof(XamarinExample.ARPage), typeof(XamarinExample.Droid.ARPageRenderer))]
-namespace XamarinExample.Droid
+[assembly: ExportRenderer(typeof(CityOfFuture.ARPage), typeof(CityOfFuture.Droid.ARPageRenderer))]
+namespace CityOfFuture.Droid
 {
 	public class ARPageRenderer : PageRenderer
 	{

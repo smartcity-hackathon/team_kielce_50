@@ -1,4 +1,4 @@
-namespace XamarinExample.Droid
+namespace CityOfFuture.Droid
 {
 	public class Constants
 	{

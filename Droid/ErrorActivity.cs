@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.OS;
 
-namespace XamarinExample.Droid
+namespace CityOfFuture.Droid
 {
 	[Activity(Label = "ErrorActivity")]
 	public class ErrorActivity : Activity
